@@ -5,12 +5,12 @@
 💌 If you want talk with me, you can send me a message!
 
 <p align="left">
-  <a href="https://www.instagram.com/grando_03/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/grando_03/"/>
+  <a href="https://www.instagram.com/otavinhofs/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://https://www.instagram.com/otavinhofs/"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/pedro-grando-299300225/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/pedro-grando-   299300225/"/>
+  <a href="https://www.linkedin.com/in/otavio-fraga/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://https://www.linkedin.com/in/otavio-fraga/"/>
   </a>
 </p>
 
