@@ -1,8 +1,8 @@
 <img alt="image" align="right" src="https://user-images.githubusercontent.com/104664138/226382413-6d33b624-9083-43d9-8d14-9a215492c83d.png"/>
 
-🌎 Hi There! My name is Otávio Fraga da Silva and I'm Frontend Developer and IOS Developer | Swift
+👨🏽‍💻 Hi there! My name is Otávio Fraga da Silva and I'm iOS Developer | Swift
 
-💌 If you want talk with me, you can send me a message!
+💬 If you want talk with me, you can send me a message!
 
 <p align="left">
   <a href="https://www.instagram.com/otavinhofs/" alt="Instagram">
@@ -14,19 +14,9 @@
   </a>
 </p>
 
-### Work experience
-Below, you will see my job experience:
+ iOS developer since 2022
 
-[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4"/>](https://vortigo.digital)
-
-[**Vortigo**](https://vortigo.digital) \
-Estágiario • set de 2022 - o momento · 6 meses \
-Services: `Estágiaro Front-End Swift`
-<br/>
-<br/>
-<br/>
-
-### 🦄 Skills
+### 👾 Skills
 <div style="width:5px; height:10px">
   <img height="22" alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="MVC" src="https://img.shields.io/badge/MVC-007ACC?style=for-the-badge&logo=swift&logoColor=white"/>
