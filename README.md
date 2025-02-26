@@ -1,13 +1,10 @@
 <img alt="image" align="right" src="https://user-images.githubusercontent.com/104664138/226382413-6d33b624-9083-43d9-8d14-9a215492c83d.png"/>
 
-👨🏽‍💻 Hi there! My name is Otávio Fraga da Silva and I'm Mobile developer
+👨🏽‍💻 Hi there! My name is Otávio Fraga da Silva and I'm Front-enddeveloper
 
 💬 If you want talk with me, you can send me a message!
 
 <p align="left">
-  <a href="https://www.instagram.com/otavinhofs/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://https://www.instagram.com/otavinhofs/"/>
-  </a>
   <a href="https://www.linkedin.com/in/otavio-fraga/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://https://www.linkedin.com/in/otavio-fraga/"/>
   </a>
